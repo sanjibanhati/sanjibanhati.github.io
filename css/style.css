@@ -240,7 +240,7 @@ label{
 .about-left{
 	float: left;
   width: 48.2%;
-  background: url(../images/githubabout.JPG) no-repeat 0px -500px;
+  background: url(../images/githubabout.JPG) no-repeat 50px-0px;
   min-height: 700px;
   background-size: cover;
 }
